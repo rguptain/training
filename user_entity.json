@@ -1,0 +1,28 @@
+{
+   "sessionId":"12345",
+   "entities":[
+      {
+         "name":"city",
+         "entries":[
+            {
+               "value":"New York",
+               "synonyms":[
+                  "New York",
+                  "Big Apple"
+               ]
+            }
+         ]
+      },
+      {
+         "name":"country",
+         "entries":[
+            {
+               "value":"USA",
+               "synonyms":[
+                  "USA"
+               ]
+            }
+         ]
+      }
+   ]
+}

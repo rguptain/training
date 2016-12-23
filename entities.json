@@ -1,0 +1,16 @@
+{
+    "name": "Appliances",
+    "entries": [{
+        "value": "Coffee Maker",
+        "synonyms": ["coffee maker", "coffee machine",  "coffee"]
+    }, {
+        "value": "Thermostat",
+        "synonyms": ["Thermostat", "heat", "air conditioning"]
+    }, {
+        "value": "Lights",
+        "synonyms": ["lights", "light", "lamps"]
+    }, {
+        "value": "Garage door",
+        "synonyms": ["garage door", "garage"]
+    }]
+}
